@@ -1,0 +1,10 @@
+{
+  "name": "fantasy-football-tracker-functions",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "@netlify/functions": "^2.6.0",
+    "@supabase/supabase-js": "^2.39.7",
+    "yahoo-fantasy": "^5.2.2"
+  }
+}
